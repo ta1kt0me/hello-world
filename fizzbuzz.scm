@@ -1,6 +1,6 @@
 (define (disp-3-hoge x)
   (cond ((< 100 x) "over 100")
-   ((= (remainder x 3) 0) "fuga")
+   ((= (remainder x 3) 0) "あほ")
    (else x)))
 
 ; test code
